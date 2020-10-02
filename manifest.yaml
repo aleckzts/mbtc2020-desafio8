@@ -1,0 +1,11 @@
+applications:
+  - name: mbtc2020-fca
+    path: .
+    command: yarn start
+    instances: 1
+    routes:
+      - route: mbtc2020-fca.mybluemix.net
+    random-route: true
+    memory: 128M
+    env:
+      LOCATION: 'IBM Cloud'

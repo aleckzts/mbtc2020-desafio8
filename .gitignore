@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+node_modules/
+coverage/
+.env
+dist
+
+audio/*
+!audio/.gitkeep
