@@ -1,4 +1,4 @@
-Resolução do Desafio 8 da Maratona [Behind the Code 2020](https://www.maratona.dev/pt) da IBM
+Solução para o Desafio 8 da Maratona [Behind the Code 2020](https://www.maratona.dev/pt) da IBM
 
 Descrição do desafio: https://github.com/maratonadev-br/desafio-8-2020
 
